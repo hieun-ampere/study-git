@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="459ba701-890e-4250-9a9d-e8e05b9178d4" name="Changes" comment="Initialize the repo">
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="459ba701-890e-4250-9a9d-e8e05b9178d4" name="Changes" comment="add commit 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728884783801</updated>
-      <workItem from="1728884785290" duration="1121000" />
+      <workItem from="1728884785290" duration="1448000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize the repo">
       <option name="closed" value="true" />
@@ -78,7 +76,31 @@
       <option name="project" value="LOCAL" />
       <updated>1728885033409</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add commit 1">
+      <option name="closed" value="true" />
+      <created>1728885950848</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728885950848</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add commit 2">
+      <option name="closed" value="true" />
+      <created>1728885965231</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728885965231</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add commit 2">
+      <option name="closed" value="true" />
+      <created>1728885979680</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728885979680</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +131,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initialize the repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initialize the repo" />
+    <MESSAGE value="add commit 1" />
+    <MESSAGE value="add commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add commit 2" />
   </component>
 </project>
